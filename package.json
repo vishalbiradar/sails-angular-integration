@@ -1,8 +1,8 @@
 {
-  "name": "sails-angular2",
+  "name": "sails-angular-integration",
   "private": true,
   "version": "0.3.0",
-  "description": "a Sails + Angular 4 sample application",
+  "description": "Sails Angular Integration",
   "keywords": [],
   "dependencies": {
     "@angular/common": "4.2.2",
@@ -51,12 +51,12 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/xmaestro/sails-angular2.git"
+    "url": "https://github.com/vishalbiradar/sails-angular-integration.git"
   },
   "devDependencies": {
     "@types/core-js": "^0.9.41",
     "typescript": "2.3.4"
   },
-  "author": "xmaestro",
+  "author": "Vishal Biradar",
   "license": ""
 }
